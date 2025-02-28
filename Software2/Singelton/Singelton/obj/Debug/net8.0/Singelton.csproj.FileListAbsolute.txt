@@ -1,0 +1,14 @@
+C:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\Singelton\Singelton\bin\Debug\net8.0\Singelton.exe
+C:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\Singelton\Singelton\bin\Debug\net8.0\Singelton.deps.json
+C:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\Singelton\Singelton\bin\Debug\net8.0\Singelton.runtimeconfig.json
+C:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\Singelton\Singelton\bin\Debug\net8.0\Singelton.dll
+C:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\Singelton\Singelton\bin\Debug\net8.0\Singelton.pdb
+C:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\Singelton\Singelton\obj\Debug\net8.0\Singelton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\Singelton\Singelton\obj\Debug\net8.0\Singelton.AssemblyInfoInputs.cache
+C:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\Singelton\Singelton\obj\Debug\net8.0\Singelton.AssemblyInfo.cs
+C:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\Singelton\Singelton\obj\Debug\net8.0\Singelton.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\Singelton\Singelton\obj\Debug\net8.0\Singelton.dll
+C:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\Singelton\Singelton\obj\Debug\net8.0\refint\Singelton.dll
+C:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\Singelton\Singelton\obj\Debug\net8.0\Singelton.pdb
+C:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\Singelton\Singelton\obj\Debug\net8.0\Singelton.genruntimeconfig.cache
+C:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\Singelton\Singelton\obj\Debug\net8.0\ref\Singelton.dll

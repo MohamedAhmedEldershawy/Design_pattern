@@ -1,0 +1,14 @@
+c:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\bin\Debug\net9.0\Software2.exe
+c:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\bin\Debug\net9.0\Software2.deps.json
+c:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\bin\Debug\net9.0\Software2.runtimeconfig.json
+c:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\bin\Debug\net9.0\Software2.dll
+c:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\bin\Debug\net9.0\Software2.pdb
+c:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\obj\Debug\net9.0\Software2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\obj\Debug\net9.0\Software2.AssemblyInfoInputs.cache
+c:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\obj\Debug\net9.0\Software2.AssemblyInfo.cs
+c:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\obj\Debug\net9.0\Software2.csproj.CoreCompileInputs.cache
+c:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\obj\Debug\net9.0\Software2.dll
+c:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\obj\Debug\net9.0\refint\Software2.dll
+c:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\obj\Debug\net9.0\Software2.pdb
+c:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\obj\Debug\net9.0\Software2.genruntimeconfig.cache
+c:\Users\Mohamed Ahmed\OneDrive\سطح المكتب\Software2\obj\Debug\net9.0\ref\Software2.dll
